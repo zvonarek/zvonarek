@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello, I'm Kevin Javier Zvonarek 👋
+- I’m currently studying **Physics**, **Mathematics**, and **Computer Science** at the University of Michigan. 
+- I will be developing starter SWE projects in the coming months so stay tuned!
+- I'm interested in reading, speed-cubing, and working-out.
 <!--
 **zvonarek/zvonarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
