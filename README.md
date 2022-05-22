@@ -1,6 +1,7 @@
 ### Hello, welcome to my GitHub page👋
 - I’m currently studying **Physics**, **Mathematics**, and **Computer Science** at the University of Michigan. 
-- I will be developing starter SWE projects in the coming months so stay tuned!
+- My 9-5: This summer I am interning as a SWE at CERN in Geneva, CH working on the CMS High-level Trigger.
+- MY 5-9: I will be developing starter SWE projects in the coming months so stay tuned!
 - I'm interested in reading, speed-cubing, and working-out.
 - Feel free to check-out my [website](https://www.kevinzvonarek.com) I made from the hugo-academic [tutorial](https://wowchemy.com/docs/getting-started/get-started/). I will be taking it down soon and making my own from scratch!
 <!--
