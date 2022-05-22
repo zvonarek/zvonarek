@@ -1,9 +1,8 @@
 ### Hello, welcome to my GitHub page👋
 - I’m currently studying **Physics**, **Mathematics**, and **Computer Science** at the University of Michigan. 
-- My 9-5: This summer I am interning as a SWE at CERN in Geneva, CH working on the CMS High-level Trigger.
-- MY 5-9: I will be developing starter dev projects in the coming months so stay tuned!
+- This summer I am working on the CMS High-level Trigger Software at CERN in Geneva, CH.
 - I'm interested in reading, speed-cubing, and working-out.
-- Feel free to check-out my [website](https://www.kevinzvonarek.com) I made from the hugo-academic [tutorial](https://wowchemy.com/docs/getting-started/get-started/). I will be taking it down soon and making my own from scratch!
+- Feel free to check-out my [website](https://www.kevinzvonarek.com) I made using the hugo-academic [tutorial](https://wowchemy.com/docs/getting-started/get-started/). I will be taking it down soon and making my own from scratch!
 <!--
 **zvonarek/zvonarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
