@@ -1,6 +1,7 @@
 ### Hello, welcome to my GitHub page👋
 - I’m currently studying **Physics**, **Mathematics**, and **Computer Science** at the University of Michigan. 
-- This summer I am working on the CMS High-level Trigger Software at CERN in Geneva, CH.
+- This past summer I was working on the CMS High-level Trigger Software team at CERN in Geneva, CH.
+- I'm currently working as a frontend dev within CERN's Indico Project.
 - I'm interested in K-12 tutoring/outreach, reading, speed-cubing, and working-out.
 - Feel free to check-out my [website](https://www.kevinzvonarek.com) I made using the hugo-academic [tutorial](https://wowchemy.com/docs/getting-started/get-started/). I will be taking it down soon and making my own from scratch!
 <!--
