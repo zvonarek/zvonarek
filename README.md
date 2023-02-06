@@ -1,7 +1,6 @@
 ### Hello 👋
 - I’m currently studying **Physics**, **Mathematics**, and **Computer Science** at the University of Michigan.
 - I'm interested in K-12 outreach, reading, chess/speed-cubing, and traveling.
-- Feel free to check-out my [website](https://www.kevinzvonarek.com) I made using the hugo-academic [tutorial](https://wowchemy.com/docs/getting-started/get-started/). I will be taking it down soon and making my own from scratch!
 <!--
 **zvonarek/zvonarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
